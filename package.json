@@ -1,0 +1,29 @@
+{
+  "name": "discord_bot_nodejs",
+  "version": "0.0.1",
+  "description": "discord bot by nodejs",
+  "main": "App.js",
+  "scripts": {
+    "test": "node src/App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TellM1/discord_bot_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "discord",
+    "bot"
+  ],
+  "author": "terumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TellM1/discord_bot_nodejs/issues"
+  },
+  "homepage": "https://github.com/TellM1/discord_bot_nodejs#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.38.0"
+  }
+}
